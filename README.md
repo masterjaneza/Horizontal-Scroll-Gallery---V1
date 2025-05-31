@@ -48,6 +48,19 @@ V1 is minimal and functional — think of it as a skeleton for bigger ideas.
 
 *Modern design and polish are coming in future versions.*
 
+--- 
+
+## ⚙️ Setup & Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/masterjaneza/the-world-of-movies.git
+   cd the-world-of-movies
+   npm install
+   npm run dev
+   ```
+
+--- 
 ---
 
 ## 🧪 Browser Support
