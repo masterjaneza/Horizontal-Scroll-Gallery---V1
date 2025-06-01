@@ -54,7 +54,7 @@ V1 is minimal and functional — think of it as a skeleton for bigger ideas.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/masterjaneza/the-world-of-movies.git
+   git clone https://github.com/masterjaneza/Horizontal-Scroll-Gallery---V1
    cd the-world-of-movies
    npm install
    npm run dev
