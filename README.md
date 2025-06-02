@@ -50,16 +50,19 @@ V1 is minimal and functional — think of it as a skeleton for bigger ideas.
 
 --- 
 
+---
+
 ## ⚙️ Setup & Installation
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/masterjaneza/Horizontal-Scroll-Gallery---V1
-   cd the-world-of-movies
-   npm install
-   npm run dev
-   ```
+   git clone https://github.com/masterjaneza/Horizontal-Scroll-Gallery---V1.git
 
+**Open the Project:**
+
+- Open `index.html` in your browser  
+  **or**
+- Use **Live Server** in VS Code.
 --- 
 ---
 
